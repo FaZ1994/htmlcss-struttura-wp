@@ -76,16 +76,16 @@ body {
 
   .box {
     background-color: lightblue;
-    height: 305px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    height: 80%;
+    margin-top: 1%;
+    margin-bottom: 1%;
   }
 
 .box-center {
     width: 60%;
     float: left;
     background-color: lightblue;
-    margin: 15px;
+    margin: 1% 2% 0 2%;
 }
 
 .box.box-left {
